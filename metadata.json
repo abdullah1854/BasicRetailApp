@@ -1,0 +1,5 @@
+{
+  "name": "Retail Billing App",
+  "description": "A lightweight billing web-app for small-town retailers. Manage customers, generate invoices, export to PDF, and manage distribution. Works offline using local storage.",
+  "requestFramePermissions": []
+}
